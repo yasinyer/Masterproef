@@ -36,6 +36,9 @@ function gotPoses(poses){
   }
 }
 
+
+
+
 function modelLoaded(){
   console.log('PoseNet is ready');
 }
